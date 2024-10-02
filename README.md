@@ -1,0 +1,1 @@
+Descargamos el proyecto, abrimos el main y ejecutamos, como podemos ver se mantiene corriendo ya que estamos hablando de una api rest, podremos conectar con postman y realizar cambios a traves de los metodos. Y podremos ver desde h2 las tablas creadas con sus respectivos datos 
